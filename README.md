@@ -38,6 +38,7 @@ cd CapClassifier
 python -m venv venv
 source venv/bin/activate
 pip install -r pip-requirements.txt
+
 # If jupyterlab is not already installed:
 pip install jupyterlab
 ```

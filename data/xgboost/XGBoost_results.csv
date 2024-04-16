@@ -1,0 +1,2 @@
+Model,CV Accuracy,Validation Accuracy,Validation Precision,Validation Recall,Validation F1-score,Validation ROC AUC,Test Accuracy,Test Precision,Test Recall,Test F1-score,Test ROC AUC
+XGBoost,0.9992805350951979,0.9997302036962094,0.999412455934195,1.0,0.9997061416397296,1.0,0.9995953055443141,0.9991063449508489,1.0,0.9995529727313366,0.9999995592735241

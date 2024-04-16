@@ -1,0 +1,2 @@
+Model,CV Accuracy,Validation Accuracy,Validation Precision,Validation Recall,Validation F1-score,Validation ROC AUC,Test Accuracy,Test Precision,Test Recall,Test F1-score,Test ROC AUC
+Random Forest,0.9995503394900449,1.0,1.0,1.0,1.0,1.0,0.9997302036962094,0.9997018485390579,0.9997018485390579,0.9997018485390579,0.9999999265455874

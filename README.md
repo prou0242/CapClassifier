@@ -58,5 +58,5 @@ The dataset is divided into three subsets to ensure the model is capable of gene
 **Testing Set:** Serves as a test set to fine-tune the model parameters and prevent over-fitting.<br>
 **Validation Set:** Acts as the final evaluation, used only after the model has been trained and tuned. This provides an unbiased assessment of model performance as the data has not been seen by the model during training. <br>
 <br>
-The results of the validation are depicted in the image below:
+The results of the validation are depicted in the image below:<br>
 !["NOPE!"](assets/aggregated_results.png)
